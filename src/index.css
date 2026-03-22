@@ -3,10 +3,15 @@
 
 :root{
     background-color: greenyellow;
+    
+    
 
 }
 
-
+@theme{
+    --color-button: #ffffff;
+    --box-shadow: var(--shadow-2xs);
+}
 
 
 

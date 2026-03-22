@@ -4,7 +4,7 @@ import './index.css'
 
 function App() {
   return (
-    <Button text='hola'/>
+    <Button text='presiona para desahogarte'/>
   )
 }
 
