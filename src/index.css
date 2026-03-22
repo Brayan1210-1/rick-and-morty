@@ -8,7 +8,8 @@
 
 @theme{
     --color-button: #ffffff;
-    --box-shadow: var(--shadow-2xs);
+    --shadow-custom: var(--shadow-2xs);
+    --color-input: #1bafd7;
 }
 
 
