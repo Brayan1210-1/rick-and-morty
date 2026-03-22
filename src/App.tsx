@@ -1,10 +1,15 @@
-import  { Button } from './design/atoms/button'
+import { Button } from './design/atoms/button'
+import { Input } from './design/atoms/input'
 
 import './index.css'
 
 function App() {
   return (
-    <Button text='presiona para desahogarte'/>
+    <div className="flex flex-col gap-4 p-6">
+     <Button text='presiona para desahogarte'/> 
+      <Input text='hola'/> 
+   </div>
+
   )
 }
 
